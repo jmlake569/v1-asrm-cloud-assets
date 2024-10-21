@@ -1,4 +1,4 @@
-# Trend Micro XDR API Data Fetch Script
+# Get Cloud ASRM Assets
 
 ## Overview
 This Python script fetches attack surface data from the Trend Micro XDR API in batches of 500 records per page and saves it to a CSV file. It shows a progress bar to track data retrieval.
