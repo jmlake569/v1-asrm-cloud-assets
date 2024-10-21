@@ -15,6 +15,12 @@ This Python script fetches attack surface data from the Trend Micro XDR API in b
    git clone https://github.com/jmlake569/v1-asrm-cloud-assets.git
    ```
 
+2. Navigate to project folder:
+   
+   ```bash
+   cd v1-asrm-cloud-assets
+   ```
+
 2. Install dependencies:
    
    ```bash
